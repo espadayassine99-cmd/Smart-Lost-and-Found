@@ -1,0 +1,3 @@
+O1;LOST;telephonr;grand;;2026-02-12;casa;AUTRE;EN_ATTENTE;amine@gmail.cpom
+O2;LOST;iphone x;il est grand;;2026-11-18;casa;ELECTRONIQUE;EN_ATTENTE;yassine@gmail.com
+O3;LOST;iii;uuu;;2026-09-21;CAA;AUTRE;EN_ATTENTE;yass@gmail.com
